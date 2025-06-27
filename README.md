@@ -40,13 +40,11 @@ The lab covered a wide range of core data structures and their operations, imple
 - Binary Tree creation and traversal (inorder, preorder, postorder)
 - Binary Search Tree (BST): insertion, deletion, searching
 - Height, count, and depth of nodes
-- AVL Trees (if implemented)
 
 ### 📌 Graphs
 - Representation: Adjacency Matrix & List
 - BFS (Breadth-First Search)
 - DFS (Depth-First Search)
-- Shortest Path (Dijkstra’s algorithm – if included)
 
 ### 📌 Miscellaneous
 - Recursion-based programs
