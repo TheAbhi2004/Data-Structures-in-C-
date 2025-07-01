@@ -6,7 +6,7 @@ This repository contains all the **Data Structures (DS)** programs completed as 
 
 ## 🧠 Topics Covered
 
-The lab covered a wide range of core data structures and their operations, implemented in C/C++:
+The lab covered a wide range of core data structures and their operations, implemented in C:
 
 ### 📌 Arrays
 - Basic operations: insertion, deletion, traversal
